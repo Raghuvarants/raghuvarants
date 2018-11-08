@@ -1,1 +1,1 @@
-# alkadiyan.github.io
+# alkadiyan.io
