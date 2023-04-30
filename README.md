@@ -13,7 +13,7 @@ I am a passionate Software QA Engineer with good experience in leading QA teams 
 * 📚 Love Reading Management and UX books.
 
 # Technology Stack
-<a href="https://www.python.org" target="_blank"><img aligh="left" alt="python" height="42px" src="https://raw.githubusercontent.com/raghuvarants/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img aligh="left" alt="python" height="42px" src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/raghuvarants/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
 
