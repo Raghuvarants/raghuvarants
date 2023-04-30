@@ -6,7 +6,8 @@ I am a passionate Software QA Engineer with good experience in leading QA teams 
 * 🛠️ I am currently working on Test Automation for Web, API and Mobile applications.
 * 🚀 Learning Data Visualization. I am passionate about leveraging data to provide efficient solution for customers. 
 * ❤️‍🔥 Advanced Python Programming.
-* 🔗 All things QA and Product Management.
+* 💬 Ask me about all things QA, Automation and Product Management. 
+* 🔗 Feek free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
 
 # Personal Favorites
 
