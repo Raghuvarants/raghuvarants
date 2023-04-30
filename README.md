@@ -13,7 +13,7 @@ I am a passionate Software QA Engineer with good experience in leading QA teams 
 * 📚 Love Reading Management and UX books.
 
 # Language and Tools
-<a href="https://www.python.org"> <img src="https://www.iconfinder.com/icons/4518857/python_icon"/></a>
+<a href="https://www.python.org" target="_blank"><img aligh="left" alt="python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
 
 
