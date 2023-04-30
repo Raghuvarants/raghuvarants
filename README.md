@@ -16,7 +16,7 @@ I am a passionate Software QA Engineer with good experience in leading QA teams 
 <a href="https://www.python.org" target="_blank"><img aligh="left" alt="python" height="42px" src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/squarejavascript/javascript.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg"></a>
 
 
 
