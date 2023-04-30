@@ -1,4 +1,4 @@
-# Hello 👋 , I am {\color{Blue}Raghuvaran!}
+# Hello 👋 , I am $${\color{Blue}Raghuvaran!}$$
 
 I am a passionate Software QA Engineer with good experience in leading QA teams in B2B and B2C product Space. 
 
