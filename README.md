@@ -8,7 +8,7 @@ I am a passionate Software QA Engineer with good experience in leading QA teams 
 * ❤️‍🔥 Advanced Python Programming.
 * 💬 Ask me about all things QA, Automation and Product Management. 
 * 🔗 Feek free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
-* 💻 Intersection of Technology and Consumer is my la la land. I love leveraging technlogy to solve customer problem.
+* 💻 Passionate about the topic "Human Computer Interaction". 
 * 📚 Love Reading Management and UX books.
 
 # Technology Stack
