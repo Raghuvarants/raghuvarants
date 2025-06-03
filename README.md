@@ -1,5 +1,5 @@
 # Hello 👋 , I am [Raghuvaran](https://github.com/Raghuvarants)
-I am a Passionate **Solution Engineer / Automation Engineer **
+I am a Passionate **Solution Engineer / Automation Engineer**
 
 # About me
 
