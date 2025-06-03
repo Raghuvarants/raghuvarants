@@ -1,15 +1,16 @@
 # Hello 👋 , I am [Raghuvaran](https://github.com/Raghuvarants)
-I am a passionate Software QA Engineer with good experience in leading QA teams in B2B and B2C product Space. 
+I am a Passionate QA Automation Engineer turned Solution Engineer
 
 # About me
 
 * 🛠️ I am currently working on Test Automation for Web, API and Mobile applications.
-* 🚀 Learning Data Visualization. I am passionate about leveraging data to provide efficient solution for customers. 
+* 🚀 Currently learning Data Engineering. I am passionate about leveraging data to build efficient products.
 * ❤️‍🔥 Advanced Python Programming.
-* 💬 Ask me about all things QA, Automation and Product Management. 
+* 💬 Ask me about all things Product Management, QA Automation and UX.
 * 🔗 Feek free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
-* 💻 Passionate about the topic "Human Computer Interaction". 
+* 💻 Passionate about "Human Computer Interaction" and would love to talk about psychology behind product design any day.
 * 📚 Love Reading Management and UX books.
+* 👨‍💻 Exploring AI tools that can make my life easier.
 
 # Technology Stack
 <a href="https://www.python.org" target="_blank"><img aligh="left" alt="python" height="42px" src="https://github.com/Raghuvarants/README_icons/blob/main/language_and_tools/square/python/python.svg"></a>
