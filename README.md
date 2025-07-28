@@ -1,13 +1,13 @@
 # Hello 👋 , I am [Raghuvaran](https://github.com/Raghuvarants)
-I am a Passionate **Solution Engineer / Automation Engineer**
+I am a Passionate **Solution Engineer / Product Manager**
 
 # About me
 
-* 🛠️ I am currently working on Test Automation for Web, API and Mobile applications.
-* 🚀 Currently learning Data Engineering. I am passionate about leveraging data to build efficient products.
+* 🛠️ I am currently working as Director of Solution Consulting.
+* 🚀 Currently learning Data Engineering. I am passionate about leveraging Data and AI to build efficient products.
 * 👨‍💻 Exploring AI tools that can make my life easier.
 * ❤️‍🔥 Advanced Python Programming.
-* 💬 Ask me about all things Product Management, QA Automation and UX.
+* 💬 Ask me about all things Product Management, Data Analytics and UX.
 * 🔗 Feek free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
 * 💻 Passionate about "Human Computer Interaction" and would love to talk about psychology behind product design any day.
 * 📚 Love Reading Management and UX books.
