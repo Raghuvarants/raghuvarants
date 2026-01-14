@@ -8,7 +8,7 @@ I am a Passionate **Solution Engineer / Product Manager**
 * 👨‍💻 Exploring AI tools that can make my life easier.
 * ❤️‍🔥 Advanced Python Programming.
 * 💬 Ask me about all things Product Management, Data Analytics and UX.
-* 🔗 Feek free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
+* 🔗 Feel free to reach out to me in [LinkedIn](https://www.linkedin.com/in/raghuvarants)
 * 💻 Passionate about "Human Computer Interaction" and would love to talk about psychology behind product design any day.
 * 📚 Love Reading Management and UX books.
 * Recently Relocated from Bay area to Chennai, India.
